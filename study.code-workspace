@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {"python.pythonPath": "C:\\Users\\mikei\\miniconda3\\envs\\study\\python.exe",
+				"python.terminal.activateEnvironment":true,
+				"python.linting.pylintEnabled":true,
+				"python.condaPath": "C:\\Users\\mikei\\miniconda3\\Scripts\\conda.exe",
+				"terminal.integrated.shell.windows": "C:\\Windows\\System32\\cmd.exe",
+				"terminal.integrated.shellArgs.windows": ["/K", "C:\\Users\\mikei\\miniconda3\\Scripts\\activate study"],
+				"python.terminal.executeInFileDir":true,
+				}
